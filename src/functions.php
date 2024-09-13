@@ -1,5 +1,5 @@
 <?php
-function saludo() {
-    return "¡Hola!";
+function REsaludo() {
+    return "¡y adios!";
 }
 ?>
