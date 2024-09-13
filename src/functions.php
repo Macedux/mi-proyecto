@@ -1,6 +1,6 @@
 <?php
 function MENSAJE() {
-    return "Ahora todos somos amigos";
+    return "Ahora todos somos amigos, o no";
 }
 ?>
 
