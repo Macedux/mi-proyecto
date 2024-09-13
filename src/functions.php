@@ -1,5 +1,6 @@
 <?php
-function REsaludo() {
-    return "¡y adios!";
+function MENSAJE() {
+    return "Cambios en la rama funcionalidad-1";
 }
 ?>
+
